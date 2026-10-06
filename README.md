@@ -152,19 +152,18 @@ Music is the core of what I do. Software and design are the tools I use to build
 
 <table>
 <tr>
-<td align="center" bgcolor="#0D1117">
+<td valign="middle" width="88">
+<img src="https://raw.githubusercontent.com/zishan049/Music-Vibe-New-Site/main/public/Assets/musicvibe.png" width="72" height="72" alt="Music Vibe profile picture">
+</td>
+<td valign="middle">
 
+<strong>MUSIC VIBE</strong>  
+<sub>Music Producer · Composer</sub>  
+<sub>@musicvibe725 · India</sub>
+
+</td>
+<td valign="middle" width="45%">
 <img src="https://raw.githubusercontent.com/zishan049/zishan049/main/assets/file_00000000f3a08207bab7e1245265fd39_upscaled.webp" width="100%" alt="Music Vibe banner">
-
-<br>
-
-<img src="https://raw.githubusercontent.com/zishan049/Music-Vibe-New-Site/main/public/Assets/musicvibe.png" width="96" height="96" alt="Music Vibe profile picture">
-
-### MUSIC VIBE
-
-**Music Producer · Composer**  
-@musicvibe725 · India
-
 </td>
 </tr>
 </table>
