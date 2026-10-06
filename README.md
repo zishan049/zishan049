@@ -72,7 +72,7 @@ Communication and real-time messaging project.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/zishan049/The-Nandi-Studio"><img src="./assets/project-nandi.png" width="40" height="40" alt="The Nandi Studio icon"></a>&nbsp;&nbsp;<strong><a href="https://github.com/zishan049/The-Nandi-Studio">The Nandi Studio</a></strong>
+<a href="https://github.com/zishan049/The-Nandi-Studio"><img src="./assets/project-nandi.png" width="48" height="48" alt="The Nandi Studio bull logo"></a>&nbsp;&nbsp;<strong><a href="https://github.com/zishan049/The-Nandi-Studio">The Nandi Studio</a></strong>
 
 Cinematic digital studio experience.
 
