@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-hero.webp" width="100%" alt="Md Zishan Tarique — Music Vibe">
+<img src="./assets/file_00000000f3a08207bab7e1245265fd39_upscaled.webp" width="100%" alt="Md Zishan Tarique — Music Vibe">
 
 <br>
 
