@@ -26,14 +26,94 @@ Building music, creative tools, software and digital experiences.
 
 Software, creative tools and digital experiences.
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[Composer](https://github.com/zishan049/Composer)** | Music composition & creative workflow application | Tauri · React · TypeScript |
-| **[Mage](https://github.com/zishan049/Mage)** | Audio and file-management utility for music workflows | Tauri · Audio |
-| **[Task Manager](https://github.com/zishan049/TaskManager)** | Productivity and task-management application | Desktop |
-| **[Chat](https://github.com/zishan049/Chat)** | Communication and real-time messaging experiment | Realtime · Android |
-| **[The Nandi Studio](https://github.com/zishan049/The-Nandi-Studio)** | Cinematic digital studio experience | React · Supabase |
-| **[SyncD](https://github.com/zishan049/Syncd)** | Synchronized interaction and shared experiences | Web · Realtime |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/zishan049/Composer">
+<img src="https://raw.githubusercontent.com/zishan049/Composer/main/public/icon.ico" width="48" height="48" alt="Composer icon">
+</a>
+
+### [Composer](https://github.com/zishan049/Composer)
+
+Local-native creator studio and developer workbench.
+
+<sub>Tauri · React · TypeScript</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/zishan049/Mage">
+<img src="./assets/project-mage.svg" width="48" height="48" alt="Mage icon">
+</a>
+
+### [Mage](https://github.com/zishan049/Mage)
+
+Audio and file-management utility for music workflows.
+
+<sub>Tauri · Audio · Desktop</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/zishan049/TaskManager">
+<img src="./assets/project-taskmanager.svg" width="48" height="48" alt="Task Manager icon">
+</a>
+
+### [Task Manager](https://github.com/zishan049/TaskManager)
+
+Productivity and task-management application.
+
+<sub>Desktop · Productivity</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/zishan049/Chat">
+<img src="./assets/project-chat.svg" width="48" height="48" alt="Chat icon">
+</a>
+
+### [Chat](https://github.com/zishan049/Chat)
+
+Communication and real-time messaging project.
+
+<sub>Realtime · Android · Experiment</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/zishan049/The-Nandi-Studio">
+<img src="./assets/project-nandi.png" width="48" height="48" alt="The Nandi Studio icon">
+</a>
+
+### [The Nandi Studio](https://github.com/zishan049/The-Nandi-Studio)
+
+Cinematic digital studio experience.
+
+<sub>React · Supabase · Web</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/zishan049/Syncd">
+<img src="./assets/project-syncd.svg" width="48" height="48" alt="SyncD icon">
+</a>
+
+### [SyncD](https://github.com/zishan049/Syncd)
+
+Synchronized interaction and shared digital experiences.
+
+<sub>Web · Realtime · Systems</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
