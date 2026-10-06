@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">\n\n<img src="./assets/file_00000000f3a08207bab7e1245265fd39_upscaled.png" width="100%" alt="Md Zishan Tarique — Music Vibe">\n\n<br><br>\n\n</div>\n\n<div align="center">
 
 # MD ZISHAN TARIQUE
 
