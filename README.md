@@ -1,127 +1,125 @@
 <div align="center">
 
-<img src="./assets/file_00000000f3a08207bab7e1245265fd39_upscaled.png" width="100%" alt="Md Zishan Tarique — Music Vibe">
-
-# MD ZISHAN TARIQUE
-
-**Music Producer · Composer · Creative Technologist**
-
-Building music, creative tools, software and digital experiences.
-
-<a href="https://github.com/zishan049"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="24" alt="GitHub"></a>&nbsp;&nbsp;
-<a href="https://musicvibe-delta.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="24" alt="Website"></a>&nbsp;&nbsp;
-<a href="https://open.spotify.com/artist/5ERUSqkyJrIgjkwfvBxu6U"><img src="https://cdn.simpleicons.org/spotify/FFFFFF" width="24" alt="Spotify"></a>&nbsp;&nbsp;
-<a href="https://on.soundcloud.com/LiRj3ENP0rJ03eITYH"><img src="https://cdn.simpleicons.org/soundcloud/FFFFFF" width="24" alt="SoundCloud"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/musicvibe725"><img src="https://cdn.simpleicons.org/instagram/FFFFFF" width="24" alt="Instagram"></a>
-
-</div>
-
----
-
-## SELECTED WORK
-
-Software, creative tools and digital experiences.
-
-### 🎛️ Composer
-Music composition and creative workflow application.
-
-**Tauri · React · TypeScript**  
-[Repository →](https://github.com/zishan049/Composer)
-
-### 🗂️ Mage
-Audio and file-management utility built around music workflows.
-
-**Tauri · Audio · Desktop**  
-[Repository →](https://github.com/zishan049/Mage)
-
-### ✅ Task Manager
-Productivity application focused on task organization and workflow management.
-
-**Desktop · Productivity**  
-[Repository →](https://github.com/zishan049/TaskManager)
-
-### 💬 Chat
-Communication project exploring real-time interaction and messaging.
-
-**Realtime · Android · Experiment**  
-[Repository →](https://github.com/zishan049/Chat)
-
-### 🎬 The Nandi Studio
-Cinematic digital studio experience with an editorial-focused visual direction.
-
-**React · Supabase · Web**  
-[Repository →](https://github.com/zishan049/The-Nandi-Studio)
-
-### 🔄 SyncD
-A project exploring synchronized interaction and shared digital experiences.
-
-**Web · Realtime · Systems**  
-[Repository →](https://github.com/zishan049/Syncd)
-
----
-
-## TECHNOLOGY
-
-<div align="center">
-
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="32" alt="React">&nbsp;
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="32" alt="TypeScript">&nbsp;
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="32" alt="JavaScript">&nbsp;
-<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="32" alt="Node.js">&nbsp;
-<img src="https://cdn.simpleicons.org/express/FFFFFF" width="32" alt="Express">&nbsp;
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="32" alt="Tailwind CSS">&nbsp;
-<img src="https://cdn.simpleicons.org/vite/646CFF" width="32" alt="Vite">&nbsp;
-<img src="https://cdn.simpleicons.org/tauri/FFC131" width="32" alt="Tauri">&nbsp;
-<img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="32" alt="Supabase">&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="32" alt="PostgreSQL">&nbsp;
-<img src="https://cdn.simpleicons.org/mysql/4479A1" width="32" alt="MySQL">&nbsp;
-<img src="https://cdn.simpleicons.org/ffmpeg/FFFFFF" width="32" alt="FFmpeg">&nbsp;
-<img src="https://cdn.simpleicons.org/threedotjs/FFFFFF" width="32" alt="Three.js">&nbsp;
-<img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="32" alt="Vercel">&nbsp;
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" alt="GitHub">
+<img src="./assets/profile-hero.webp" width="100%" alt="Md Zishan Tarique — Music Vibe">
 
 <br>
 
-<sub>React · TypeScript · JavaScript · Node.js · Express · Tailwind CSS · Vite · Tauri · Supabase · PostgreSQL · MySQL · FFmpeg · Three.js · Vercel · GitHub</sub>
+# MD ZISHAN TARIQUE
+
+### Music Producer · Composer · Creative Technologist
+
+Building music, creative tools, software and digital experiences.
+
+<br>
+
+<a href="https://github.com/zishan049"><img src="https://img.shields.io/badge/GitHub-zishan049-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://musicvibe-delta.vercel.app/"><img src="https://img.shields.io/badge/Website-Music%20Vibe-111111?style=flat-square&logo=vercel&logoColor=white" alt="Website"></a>
+<a href="https://open.spotify.com/artist/5ERUSqkyJrIgjkwfvBxu6U"><img src="https://img.shields.io/badge/Spotify-Music%20Vibe-111111?style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://on.soundcloud.com/LiRj3ENP0rJ03eITYH"><img src="https://img.shields.io/badge/SoundCloud-Music%20Vibe-111111?style=flat-square&logo=soundcloud&logoColor=white" alt="SoundCloud"></a>
+<a href="https://www.instagram.com/musicvibe725"><img src="https://img.shields.io/badge/Instagram-@musicvibe725-111111?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 </div>
 
 ---
 
-## MUSIC VIBE
+## // 01 — SELECTED WORK
+
+Software, creative tools and digital experiences.
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Composer](https://github.com/zishan049/Composer)** | Music composition & creative workflow application | Tauri · React · TypeScript |
+| **[Mage](https://github.com/zishan049/Mage)** | Audio and file-management utility for music workflows | Tauri · Audio |
+| **[Task Manager](https://github.com/zishan049/TaskManager)** | Productivity and task-management application | Desktop |
+| **[Chat](https://github.com/zishan049/Chat)** | Communication and real-time messaging experiment | Realtime · Android |
+| **[The Nandi Studio](https://github.com/zishan049/The-Nandi-Studio)** | Cinematic digital studio experience | React · Supabase |
+| **[SyncD](https://github.com/zishan049/Syncd)** | Synchronized interaction and shared experiences | Web · Realtime |
+
+---
+
+## // 02 — TECHNOLOGY
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,tailwind,vite,tauri,supabase,postgres,mysql,ffmpeg,threejs,vercel,github&theme=dark&perline=8" alt="Technology stack">
+
+</div>
+
+<br>
+
+**Frontend** — React · TypeScript · JavaScript · Tailwind CSS · Vite  
+**Backend** — Node.js · Express · Supabase  
+**Desktop** — Tauri  
+**Database** — PostgreSQL · MySQL  
+**Media / 3D** — FFmpeg · Three.js  
+**Deployment / VCS** — Vercel · GitHub
+
+---
+
+## // 03 — MUSIC
+
+<div align="center">
+
+### MUSIC VIBE
 
 **Music Producer · Composer**
 
-I produce across electronic, cinematic, trap, phonk, orchestral, ambient and experimental styles.
+</div>
 
-Music is the core. Software and design are the tools I build around it.
+I produce and compose across **electronic, cinematic, trap, phonk, orchestral, ambient and experimental** styles.
+
+Music is the core of what I do. Software and design are the tools I use to build around it.
 
 <div align="center">
 
-<a href="https://open.spotify.com/artist/5ERUSqkyJrIgjkwfvBxu6U"><img src="https://img.shields.io/badge/SPOTIFY-LISTEN-111111?style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://on.soundcloud.com/LiRj3ENP0rJ03eITYH"><img src="https://img.shields.io/badge/SOUNDCLOUD-LISTEN-111111?style=for-the-badge&logo=soundcloud&logoColor=white"></a>
-<a href="https://www.instagram.com/musicvibe725"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-111111?style=for-the-badge&logo=instagram&logoColor=white"></a>
+**Music** · **Technology** · **Design** · **Creative Tools**
+
+<br><br>
+
+<a href="https://open.spotify.com/artist/5ERUSqkyJrIgjkwfvBxu6U"><img src="https://img.shields.io/badge/Spotify-Listen-111111?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://on.soundcloud.com/LiRj3ENP0rJ03eITYH"><img src="https://img.shields.io/badge/SoundCloud-Listen-111111?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud"></a>
+<a href="https://www.instagram.com/musicvibe725"><img src="https://img.shields.io/badge/Instagram-Follow-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 </div>
 
 ---
 
-## GITHUB
+## // 04 — GITHUB
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zishan049&bg_color=0d1117&color=ffffff&line=22d3ee&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity">
+<a href="https://github.com/zishan049?tab=repositories">View all repositories →</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/zishan049">View GitHub profile →</a>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zishan049&theme=dark&hide_border=true&background=0D1117" width="100%" alt="GitHub contribution streak">
 
 </div>
 
 ---
 
+## // 05 — CONNECT
+
 <div align="center">
 
-**MD ZISHAN TARIQUE**
+<a href="https://github.com/zishan049">GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://musicvibe-delta.vercel.app/">Website</a>
+&nbsp;·&nbsp;
+<a href="https://open.spotify.com/artist/5ERUSqkyJrIgjkwfvBxu6U">Spotify</a>
+&nbsp;·&nbsp;
+<a href="https://on.soundcloud.com/LiRj3ENP0rJ03eITYH">SoundCloud</a>
+&nbsp;·&nbsp;
+<a href="https://www.instagram.com/musicvibe725">Instagram</a>
 
-Music Producer · Composer · Creative Technologist
+<br><br>
 
 <sub>India · Music · Software · Design</sub>
+
+<br>
+
+<sub>Built with curiosity. Driven by experimentation.</sub>
 
 </div>
