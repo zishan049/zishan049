@@ -30,11 +30,7 @@ Software, creative tools and digital experiences.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/zishan049/Composer">
-<img src="https://raw.githubusercontent.com/zishan049/Composer/main/public/icon.ico" width="48" height="48" alt="Composer icon">
-</a>
-
-### [Composer](https://github.com/zishan049/Composer)
+<a href="https://github.com/zishan049/Composer"><img src="https://raw.githubusercontent.com/zishan049/Composer/main/public/icon.ico" width="40" height="40" alt="Composer icon"></a>&nbsp;&nbsp;<strong><a href="https://github.com/zishan049/Composer">Composer</a></strong>
 
 Local-native creator studio and developer workbench.
 
@@ -43,11 +39,7 @@ Local-native creator studio and developer workbench.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/zishan049/Mage">
-<img src="./assets/project-mage.svg" width="48" height="48" alt="Mage icon">
-</a>
-
-### [Mage](https://github.com/zishan049/Mage)
+<a href="https://github.com/zishan049/Mage"><img src="./assets/project-mage.svg" width="40" height="40" alt="Mage icon"></a>&nbsp;&nbsp;<strong><a href="https://github.com/zishan049/Mage">Mage</a></strong>
 
 Audio and file-management utility for music workflows.
 
@@ -59,11 +51,7 @@ Audio and file-management utility for music workflows.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/zishan049/TaskManager">
-<img src="./assets/project-taskmanager.svg" width="48" height="48" alt="Task Manager icon">
-</a>
-
-### [Task Manager](https://github.com/zishan049/TaskManager)
+<a href="https://github.com/zishan049/TaskManager"><img src="./assets/project-taskmanager.svg" width="40" height="40" alt="Task Manager icon"></a>&nbsp;&nbsp;<strong><a href="https://github.com/zishan049/TaskManager">Task Manager</a></strong>
 
 Productivity and task-management application.
 
@@ -72,11 +60,7 @@ Productivity and task-management application.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/zishan049/Chat">
-<img src="./assets/project-chat.svg" width="48" height="48" alt="Chat icon">
-</a>
-
-### [Chat](https://github.com/zishan049/Chat)
+<a href="https://github.com/zishan049/Chat"><img src="./assets/project-chat.svg" width="40" height="40" alt="Chat icon"></a>&nbsp;&nbsp;<strong><a href="https://github.com/zishan049/Chat">Chat</a></strong>
 
 Communication and real-time messaging project.
 
@@ -88,11 +72,7 @@ Communication and real-time messaging project.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/zishan049/The-Nandi-Studio">
-<img src="./assets/project-nandi.png" width="48" height="48" alt="The Nandi Studio icon">
-</a>
-
-### [The Nandi Studio](https://github.com/zishan049/The-Nandi-Studio)
+<a href="https://github.com/zishan049/The-Nandi-Studio"><img src="./assets/project-nandi.png" width="40" height="40" alt="The Nandi Studio icon"></a>&nbsp;&nbsp;<strong><a href="https://github.com/zishan049/The-Nandi-Studio">The Nandi Studio</a></strong>
 
 Cinematic digital studio experience.
 
@@ -101,11 +81,7 @@ Cinematic digital studio experience.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/zishan049/Syncd">
-<img src="./assets/project-syncd.svg" width="48" height="48" alt="SyncD icon">
-</a>
-
-### [SyncD](https://github.com/zishan049/Syncd)
+<a href="https://github.com/zishan049/Syncd"><img src="./assets/project-syncd.svg" width="40" height="40" alt="SyncD icon"></a>&nbsp;&nbsp;<strong><a href="https://github.com/zishan049/Syncd">SyncD</a></strong>
 
 Synchronized interaction and shared digital experiences.
 
