@@ -51,32 +51,11 @@ Audio and file-management utility for music workflows.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/zishan049/TaskManager"><img src="./assets/project-taskmanager.svg" width="40" height="40" alt="Task Manager icon"></a>&nbsp;&nbsp;<strong><a href="https://github.com/zishan049/TaskManager">Task Manager</a></strong>
-
-Productivity and task-management application.
-
-<sub>Desktop · Productivity</sub>
-
-</td>
-<td width="50%" valign="top">
-
 <a href="https://github.com/zishan049/Chat"><img src="./assets/project-chat.svg" width="40" height="40" alt="Chat icon"></a>&nbsp;&nbsp;<strong><a href="https://github.com/zishan049/Chat">Chat</a></strong>
 
 Communication and real-time messaging project.
 
 <sub>Realtime · Android · Experiment</sub>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/zishan049/The-Nandi-Studio"><img src="./assets/project-nandi.png" width="48" height="48" alt="The Nandi Studio bull logo"></a>&nbsp;&nbsp;<strong><a href="https://github.com/zishan049/The-Nandi-Studio">The Nandi Studio</a></strong>
-
-Cinematic digital studio experience.
-
-<sub>React · Supabase · Web</sub>
 
 </td>
 <td width="50%" valign="top">
